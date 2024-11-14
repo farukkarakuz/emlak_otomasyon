@@ -1,0 +1,14 @@
+1,1,2,Selçuklu,80,10.06.2021,False,Daire,Satılık,2500000,3
+2,3,3,Kosova Mahallesi,85,27.10.2021,False,Daire,Satılık,2500000,3
+3,2,2,Selçuklu,75,11.11.2021,False,Daire,Satılık,1200000,2
+4,5,2,Meram,150,15.10.2020,False,Bahceli,Satılık,1200000,4
+5,4,3,Meram,66,15.10.2020,False,Bahceli,Satılık,1200000,4
+38,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,1420000,7
+41,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,1620000,7
+42,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,2245000,7
+43,2,5,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,2245000,7
+44,2,5,Akıncılar Mahallesi,142,16.02.2017,False,Mustakil,Satılık,2245000,7
+45,2,5,Akıncılar Mahallesi,142,16.02.2017,False,Dubleks,Satılık,2245000,7
+127,16,2,Selçuklu,500,15.08.2024,True,Dubleks,Satılık,4500000,0
+128,16,2,Selçuklu,500,15.08.2024,True,Dubleks,Satılık,4500000,0
+129,2,2,Akıncılar Mahallesi,    24,12.06.2020,True,Dubleks,Satılık,1250000,4

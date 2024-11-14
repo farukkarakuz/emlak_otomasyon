@@ -1,0 +1,8 @@
+1,1,2,Selçuklu,80,10.06.2021,False,Daire,Satılık,2500000,3
+3,2,2,Selçuklu,75,11.11.2021,False,Daire,Satılık,1200000,2
+38,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,1420000,7
+41,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,1620000,7
+42,2,3,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,2245000,7
+43,2,5,Akıncılar Mahallesi,145,16.02.2017,False,Mustakil,Satılık,2245000,7
+44,2,5,Akıncılar Mahallesi,142,16.02.2017,False,Mustakil,Satılık,2245000,7
+45,2,5,Akıncılar Mahallesi,142,16.02.2017,False,Dubleks,Satılık,2245000,7

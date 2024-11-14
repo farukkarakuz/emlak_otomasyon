@@ -1,0 +1,11 @@
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\bin\Debug\net8.0\EmlakClasses.deps.json
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\bin\Debug\net8.0\EmlakClasses.dll
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\bin\Debug\net8.0\EmlakClasses.pdb
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.AssemblyInfoInputs.cache
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.AssemblyInfo.cs
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.csproj.CoreCompileInputs.cache
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.dll
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\refint\EmlakClasses.dll
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\EmlakClasses.pdb
+D:\vs\proje\emlak\emlakotomasyon\EmlakClasses\obj\Debug\net8.0\ref\EmlakClasses.dll
